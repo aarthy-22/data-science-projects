@@ -7,6 +7,6 @@ Rankings data was obtained from the [Center for World University Rankings](https
 
 The project contains a jupyter notebook which includes the data preprocessing and visualisations. Libraries used were matplotlib, plotly express and altair
 
-![Analysis output](/output/visualization.png)
+![Analysis output](./output/visualization.png)
                                                
                                                                           
